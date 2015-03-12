@@ -10,7 +10,7 @@
   <groupId>com.threerings</groupId>
   <artifactId>ooo-db</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
 
   <name>ooo-db</name>
   <description>Extends ooo-util with Depot/database stuff.</description>
